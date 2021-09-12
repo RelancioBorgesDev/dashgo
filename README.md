@@ -1,4 +1,4 @@
 # dashgo
 Projeto Dashgo 
 
-**Dashboard Chakra UI**
+**Dashboard usando Chakra UI**
